@@ -2,7 +2,7 @@
 
 #speakers {
 	padding: 60px 0;
-	background: #203936;
+	background: #ffffff;
 	text-align: center;	
 }
 
@@ -47,7 +47,7 @@
 }
 	
 #speakers img:hover {
-	border: 15px solid #3980C9;
+	border: 15px solid #f07cff;
 	position: relative;
 	z-index: 10;
 	transition: all 0.1s ease-in;	
@@ -59,7 +59,7 @@
 	top: -64px;
 	left: -42px;
 	display: inline-block;
-	background: #4593e3;
+	background: #f589f8;
 	border-radius: 0 16px 16px 0;
 	font-size: 16px;
 }
@@ -105,7 +105,7 @@
 
 /* Top Section - not included in the archive available for free download */
 #top {
-	background: rgb(60, 110, 184);
+	background: rgb(170 83 255);
 	padding: 6px 10px;
 	text-align: right;
 	font-size: 15px;
